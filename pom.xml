@@ -6,14 +6,18 @@
 	<artifactId>CucumberProject</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<!-- did by chinna -->
+
 	<!-- did by chinna 2nd change-->
+  
+	<!-- did by siva -->
+
 	<name>CucumberProject</name>
 	<url>http://maven.apache.org</url>
 
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 	</properties>
-
+	<!-- did by admin amin -->
 	<dependencies>
 		<dependency>
 			<groupId>junit</groupId>
